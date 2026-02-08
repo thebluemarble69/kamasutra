@@ -1,0 +1,13 @@
+wins: 0
+losses: 0
+kills: 0
+deaths: 0
+pareffect: none
+proeffect: none
+glasscolor: none
+winsound: none
+killsound: none
+taunt: none
+uuid: 96b6e805-f293-30ee-9b21-c7ff4419d5d4
+player_name: DayRecord
+xp: 0

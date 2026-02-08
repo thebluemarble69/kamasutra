@@ -1,0 +1,115 @@
+MyAnimation1:
+  change-interval: 100
+  texts:
+    - '&d-&3--------------'
+    - '&3-&d-&3-------------'
+    - '&3--&d-&3------------'
+    - '&3---&d-&3-----------'
+    - '&3----&d-&3----------'
+    - '&3-----&d-&3---------'
+    - '&3------&d-&3--------'
+    - '&3-------&d-&3-------'
+    - '&3--------&d-&3------'
+    - '&3---------&d-&3-----'
+    - '&3----------&d-&3----'
+    - '&3-----------&d-&3---'
+    - '&3------------&d-&3--'
+    - '&3-------------&d-&3-'
+    - '&3--------------&d-'
+    - '&3-------------&d-&3-'
+    - '&3------------&d-&3--'
+    - '&3-----------&d-&3---'
+    - '&3----------&d-&3----'
+    - '&3---------&d-&3-----'
+    - '&3--------&d-&3------'
+    - '&3-------&d-&3-------'
+    - '&3------&d-&3--------'
+    - '&3-----&d-&3---------'
+    - '&3----&d-&3----------'
+    - '&3---&d-&3-----------'
+    - '&3--&d-&3------------'
+    - '&3-&d-&3-------------'
+    - '&d-&3--------------'
+ServerName:
+  change-interval: 300
+  texts:
+  - '&c&lServerName'
+  - '&c&n&lServerName'
+  - '&b&lServerName'
+  - '&b&l&nServerName'
+  - '&e&lServerName'
+  - '&e&n&lServerName'
+web:
+  change-interval: 200
+  texts:
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&6w&eww.tanaysmp.online'
+  - '&ew&6w&ew.tanaysmp.online'
+  - '&eww&6w&e.tanaysmp.online'
+  - '&ewww&6.&etanaysmp.online'
+  - '&ewww.&6t&eanaysmp.online'
+  - '&ewww.t&6a&enaysmp.online'
+  - '&ewww.ta&6n&eaysmp.online'
+  - '&ewww.tan&6a&eysmp.online'
+  - '&ewww.tana&6y&esmp.online'
+  - '&ewww.tanay&6s&emp.online'
+  - '&ewww.tanays&6m&ep.online'
+  - '&ewww.tanaysm&6p&e.online'
+  - '&ewww.tanaysmp&6.&eonline'
+  - '&ewww.tanaysmp.&6o&enline'
+  - '&ewww.tanaysmp.o&6n&eline'
+  - '&ewww.tanaysmp.on&6l&eine'
+  - '&ewww.tanaysmp.onl&6i&ene'
+  - '&ewww.tanaysmp.onli&6n&ee'
+  - '&ewww.tanaysmp.onlin&6e'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+  - '&ewww.tanaysmp.online'
+vote:
+  change-interval: 1000
+  texts:
+  - '&avote.domain.com'
+  - '&a&nvote.domain.com'
+  - '&5vote.domain.com'
+  - '&5&nvote.domain.com'
+Welcome:
+  change-interval: 400
+  texts:
+  - '&7&lW_'
+  - '&7&lW_'
+  - '&7&lWe_'
+  - '&7&lWel_'
+  - '&7&lWelc_'
+  - '&7&lWelco_'
+  - '&7&lWelcom_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcome_'
+  - '&7&lWelcom_'
+  - '&7&lWelco_'
+  - '&7&lWelc_'
+  - '&7&lWel_'
+  - '&7&lWe_'
+  - '&7&lW_'
+  - '&7&lW_'
+time:
+  change-interval: 3000
+  texts:
+    - '&7Time &b%time%'
+    - '&7Date &b%date%'
+barcolors:
+  change-interval: 1000
+  texts:
+    - RED
+    - BLUE
+    - GREEN
+    - YELLOW
